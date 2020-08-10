@@ -9,4 +9,4 @@ hello-world: main.c
 
 .PHONY: clean
 clean:
-	$(RM) -f hello-world.o hello-world
+	$(RM) -f hello-world
